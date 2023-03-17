@@ -1,0 +1,55 @@
+#d{
+    font-size: 20px;
+    font-weight: 300px;
+    width: 25%;
+    min-height: 300px;
+    background-color:#abb0b0
+}
+#d1{
+    font-size: 20px;
+    font-weight: 500px;
+    width: 25%;
+    min-height: 300px;
+    background-color:#abb0b0
+}
+#d2{
+    font-size: 20px;
+    font-weight: 500px;
+    width: 25%;
+    min-height: 300px;
+    background-color:#abb0b0
+}
+#d3{
+    font-size: 20px;
+    font-weight: 500px;
+    width: 25%;
+    min-height: 300px;
+    background-color:#abb0b0
+}
+
+#d span{
+    font-size: 20px;
+    font-weight: 700px;
+    overflow: hidden;
+    color: black;
+}
+#d1 p{
+    font-size: 20px;
+    font-weight: 700px;
+    overflow: hidden;
+    color: black;
+}
+#d2 i{
+
+    font-size: 20px;
+    font-weight: 700px;
+    overflow: hidden;
+    color: black;
+}
+
+#d2 p{
+    font-size: 20px;
+    font-weight: 700px;
+    overflow: hidden;
+    color: black;
+}
